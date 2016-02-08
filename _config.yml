@@ -1,6 +1,6 @@
 name: SPARK Services
 favicon: null
-layout_spectrum: 0.8605974521487951
+layout_spectrum: 1
 typography_spectrum: 0.7289592071902007
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.49185433075763285
+    - '#5084b3'
+    - '#000000'
+    - '#aedd27'
+    - '#94e3fd'
+    - '#00ff00'
+  brandStrength: 0.5
   lightness: 0.8113170086871833
-  saturation: 0.2013746085576713
+  saturation: 0.3125
   rhythmicContrast: 0.864596669562161
 purpose: []
