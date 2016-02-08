@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SPARK Services]]></title>
         <description><![CDATA[SPARK Services]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spark-services/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 18:25:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 23:01:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spark-services/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SPARK Services- Serving Muskogee, Wagoner, Tahlequah, and other surrounding areas - Igniting & Empowering Your Business]]></title>
+            <description><![CDATA[<article><h1>SPARK Services- Serving Muskogee, Wagoner, Tahlequah, and other surrounding areas - Igniting & Empowering Your Business</h1><p>We are Muskogee area's top IT Company, licensed for computer, server, and network repair. It is important to always look at the overall scenario when comparing prices for IT Services. Although hourly rate is important, it should not be the most important.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5414dc29d7050bee9e3ae942d4754b05960a782e.jpg"></article>]]></description>
+            <link>http://www.sparkservices.net/</link>
+            <guid isPermaLink="false">5d092ba5-e655-4701-982c-f5cb69e5ceb2</guid>
+            <pubDate>Mon, 08 Feb 2016 23:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to SPARK Services</p>]]></description>
-            <link>undefinedf227faa0-94d4-4fa3-bded-74b41ba627c6/index.html</link>
+            <link>https://thegrid.ai/spark-services/f227faa0-94d4-4fa3-bded-74b41ba627c6/index.html</link>
             <guid isPermaLink="false">f227faa0-94d4-4fa3-bded-74b41ba627c6</guid>
             <pubDate>Mon, 08 Feb 2016 18:25:39 GMT</pubDate>
         </item>
